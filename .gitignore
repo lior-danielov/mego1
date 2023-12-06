@@ -19,3 +19,4 @@
 !*.css
 !*.c
 !*.py
+/c/exercises/מערך מספרים/array numbers.cpp
